@@ -1,0 +1,12 @@
+# Example aliases
+
+alias nz="nano ~/.zshrc"
+alias sz="source ~/.zshrc"
+alias pc="sudo pacman"
+alias r="ranger"
+alias c="clear"
+alias n="nano"
+alias sl="subl3"
+alias sli3="subl3 ~/.config/i3/config"
+alias nv="nvim"
+alias nvz="nvim ~/.zshrc"
