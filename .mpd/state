@@ -1,0 +1,346 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: stop
+current: 189
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Aimer - Akane Sasu _ Everlasting Snow - EP/01 - Akane Sasu.flac
+1:Aimer - Akane Sasu _ Everlasting Snow - EP/02 - Everlasting Snow.flac
+2:Aimer - Akane Sasu _ Everlasting Snow - EP/03 - Kataomoi.flac
+3:Aimer - Akane Sasu _ Everlasting Snow - EP/04 - Akane Sasu.flac
+4:Aimer - Akane Sasu _ Everlasting Snow - EP/05 - Akane Sasu.flac
+5:Aimer - Akane Sasu _ Everlasting Snow - EP/06 - Everlasting Snow (Instrumental).flac
+6:Aimer - Best Selection Blanc/01 - Rokutouseino Yoru.flac
+7:Aimer - Best Selection Blanc/02 - Choucho Musubi.flac
+8:Aimer - Best Selection Blanc/03 - Anatani Deawanakereba Kasetsutouka.flac
+9:Aimer - Best Selection Blanc/04 - Polaris.flac
+10:Aimer - Best Selection Blanc/05 - Repray.flac
+11:Aimer - Best Selection Blanc/06 - Hoshikuzu Venus.flac
+12:Aimer - Best Selection Blanc/07 - Broken Night.flac
+13:Aimer - Best Selection Blanc/08 - Kataomoi.flac
+14:Aimer - Best Selection Blanc/10 - Akane Sasu.flac
+15:Aimer - Best Selection Blanc/11 - Yuki No Furu Machi.flac
+16:Aimer - Best Selection Blanc/12 - Everlasting Snow.flac
+17:Aimer - Choucho Musubi/01 - Choucho Musubi.flac
+18:Aimer - Choucho Musubi/02 - Natsukusani Kimiwo Omou.flac
+19:Aimer - Choucho Musubi/03 - September San.flac
+20:Aimer - Daydream/01 - Insane Dream.flac
+21:Aimer - Daydream/02 - Ninelie.flac
+22:Aimer - Daydream/03 - Twoface.flac
+23:Aimer - Daydream/04 - Higher Ground.flac
+24:Aimer - Daydream/05 - For Lonely.flac
+25:Aimer - Daydream/06 - Choucho Musubi.flac
+26:Aimer - Daydream/07 - Kataomoi.flac
+27:Aimer - Daydream/08 - Hz.flac
+28:Aimer - Daydream/09 - Kowairo.flac
+29:Aimer - Daydream/10 - Closer.flac
+30:Aimer - Daydream/11 - Falling Alone.flac
+31:Aimer - Daydream/12 - Us.flac
+32:Aimer - Daydream/13 - Stars in the Rain.flac
+33:Aimer - Re_ I Am/01 - Re_ I Am.flac
+34:Aimer - Re_ I Am/02 - Hoshino Kieta Yoruni.flac
+35:Aimer - Re_ I Am/03 - Kyoukara Omoide.flac
+36:Aimer - Re_ I Am/04 - Re_ I Am (Instrumental).flac
+37:Aimer - Re_ I Am/05 - Hoshino Kieta Yoruni.flac
+38:Aimer - Sleepless Nights/01 - Twinkle Twinkle Little Star Prologue.flac
+39:Aimer - Sleepless Nights/02 - Yako Ressha Nothing to Lose.flac
+40:Aimer - Sleepless Nights/03 - Anatani Deawanakereba Kasetsutouka.flac
+41:Aimer - Sleepless Nights/04 - Egao.flac
+42:Aimer - Sleepless Nights/05 - Repray.flac
+43:Aimer - Sleepless Nights/06 - Kanashimihaohrorani.flac
+44:Aimer - Sleepless Nights/07 - Samishikute Nemurenai Yoruha.flac
+45:Aimer - Sleepless Nights/08 - Am02_00.flac
+46:Aimer - Sleepless Nights/09 - Hoshikuzu Venus.flac
+47:Aimer - Sleepless Nights/10 - Yuki No Furu Machi.flac
+48:Aimer - Sleepless Nights/11 - Fuyunodaiyamondo.flac
+49:Aimer - Sleepless Nights/12 - Rokutouseino Yoru.flac
+50:Aimer - Sleepless Nights/13 - Twinkle Twinkle Little Star.flac
+51:Dreamcatcher - Full Moon/01 - Full Moon.flac
+52:Dreamcatcher - Full Moon/02 - Full Moon (Instrumental).flac
+53:Dreamcatcher - Nightmare - Escape The ERA/01 - INSIDE - OUTSIDE (Intro).flac
+54:Dreamcatcher - Nightmare - Escape The ERA/02 - YOU AND I.flac
+55:Dreamcatcher - Nightmare - Escape The ERA/03 - Mayday.flac
+56:Dreamcatcher - Nightmare - Escape The ERA/04 - Which a star.flac
+57:Dreamcatcher - Nightmare - Escape The ERA/05 - Scar.flac
+58:Dreamcatcher - Nightmare - Escape The ERA/06 - YOU AND I (Instrumental).flac
+59:Dreamcatcher - Piri ～ Fue wo Fuke ～ (Japanese Ver.)/01 - Piri ～ Fue wo Fuke ～ (Japanese Ver.).flac
+60:Dreamcatcher - Piri ～ Fue wo Fuke ～ (Japanese Ver.)/02 - Good Night (Japanese Ver.).flac
+61:Dreamcatcher - Piri ～ Fue wo Fuke ～ (Japanese Ver.)/03 - Wonderland (Japanese Ver.).flac
+62:Dreamcatcher - Prequel/01 - Before & After (Intro).flac
+63:Dreamcatcher - Prequel/02 - Fly high.flac
+64:Dreamcatcher - Prequel/03 - Wake up.flac
+65:Dreamcatcher - Prequel/04 - Sleep-walking.flac
+66:Dreamcatcher - Prequel/05 - 괜찮아!.flac
+67:Dreamcatcher - Prequel/06 - Fly high (Instrumental).flac
+68:Dreamcatcher - The Beginning of The End/01 - Intro.flac
+69:Dreamcatcher - The Beginning of The End/02 - Breaking Out.flac
+70:Dreamcatcher - The Beginning of The End/03 - My Way ～ Kono Michi no Sakie ～.flac
+71:Dreamcatcher - The Beginning of The End/04 - Chase Me (Japanese Ver.).flac
+72:Dreamcatcher - The Beginning of The End/05 - Good Night (Japanese Ver.).flac
+73:Dreamcatcher - The Beginning of The End/06 - Wonderland (Japanese Ver.).flac
+74:Dreamcatcher - The Beginning of The End/07 - Piri ～ Fue wo Fuke ～ (Japanese Ver.).flac
+75:Dreamcatcher - The Beginning of The End/08 - What (Japanese Ver.).flac
+76:Dreamcatcher - The Beginning of The End/09 - I Miss You.flac
+77:Dreamcatcher - The Beginning of The End/10 - Mata Hitori ni Natta (Japanese Ver.).flac
+78:Dreamcatcher - The Beginning of The End/11 - You and I (Japanese Ver.).flac
+79:Dreamcatcher - The Beginning of The End/12 - Outro.flac
+80:Dreamcatcher - What (Japanese Ver.)/01 - What (Japanese Ver.).flac
+81:Dreamcatcher - What (Japanese Ver.)/02 - Chase Me (Japanese Ver.).flac
+82:Dreamcatcher - What (Japanese Ver.)/03 - I Miss You.flac
+83:Scandal/Scandal - Scandal/CD1/Scandal - Scandal Baby.flac
+84:Scandal/Scandal - Scandal/CD1/Scandal - Image.flac
+85:Scandal/Scandal - Scandal/CD2/Scandal - Shunkan Sentimental.flac
+86:Scandal/Scandal - Scandal/CD2/Scandal - Awanaitsumorino Genkidene.flac
+87:Aimer - Ref_rain.flac
+88:DIANA WANG - Home.flac
+89:DIANA WANG - Love Still Exists.flac
+90:R-chord - Love Doesn't Need To Pretend (feat. Diana Wang).flac
+91:Rosie - I Won't Count My Tears (OT_ I Won't Count My Tears).flac
+92:Rosie - Why Not Love (Wild in Love Release).flac
+93:Shawn Mendes - Señorita.flac
+94:Music/[2014.11.19] Image [Single] - eimusics.com/01 Image.mp3
+95:Music/[2014.11.19] Image [Single] - eimusics.com/02 Nai Nai Night 2014.mp3
+96:Music/[2014.11.19] Image [Single] - eimusics.com/03 Image (Instrumental).mp3
+97:Music/[Digital Single] Koisuru Universe/01 - Koisuru Universe.mp3
+98:Music/[Digital Single] Koisuru Universe/02 - Futari.mp3
+99:Music/[Digital Single] Koisuru Universe/03 - Kimi To Yoru To Namida (Billboard Live Osaka).mp3
+100:Music/[Digital Single] Koisuru Universe/04 - Koe (Billboard Live Osaka).mp3
+101:Music/Dreamcatcher/Dreamcatcher - Over the Sky [www.k2nblog.com]/01. 하늘을 넘어 (Over the Sky).mp3
+102:Music/Dreamcatcher/Dreamcatcher - Over the Sky [www.k2nblog.com]/02. 하늘을 넘어 (Over the Sky) (Inst.).mp3
+103:Music/Dreamcatcher/Dreamcatcher - Nightmare Fall asleep in the mirror [www.k2nblog.com]/03. Lullaby.mp3
+104:Music/Dreamcatcher/Dreamcatcher - Nightmare [www.k2nblog.com]/01. Welcome To Dream (Intro).mp3
+105:Music/Dreamcatcher/Dreamcatcher - Nightmare [www.k2nblog.com]/02. Chase Me.mp3
+106:Music/Dreamcatcher/Dreamcatcher - Nightmare [www.k2nblog.com]/03. Emotion (소원 하나).mp3
+107:Music/Dreamcatcher/Dreamcatcher - Nightmare [www.k2nblog.com]/04. Chase Me (Inst.).mp3
+108:Music/Japan/7 !!/7 !! Fly/01 FLY.m4a
+109:Music/Japan/7 !!/7 !! Fly/02 世界を回せ!!.m4a
+110:Music/Japan/7 !!/7 !! Fly/03 横顔.m4a
+111:Music/Japan/7 !!/7 !! Fly/04 FLY(Instrumental).m4a
+112:Music/Japan/7 !!/7 !! Fly/05 世界を回せ!!(Instrumental).m4a
+113:Music/Japan/7 !!/7!! - Anippusu [ALBUM]/01 ラヴァーズ.mp3
+114:Music/Japan/7 !!/7!! - Anippusu [ALBUM]/02 プリミティヴ・パワー.mp3
+115:Music/Japan/7 !!/7!! - Anippusu [ALBUM]/03 さよならメモリー.mp3
+116:Music/Japan/7 !!/7!! - Anippusu [ALBUM]/04 バイバイ.mp3
+117:Music/Japan/7 !!/7!! - Anippusu [ALBUM]/05 オレンジ.mp3
+118:Music/Japan/7 !!/7!! - Anippusu [ALBUM]/06 アオイハナビラ.mp3
+119:Music/Japan/7 !!/7!! - Anippusu [ALBUM]/07 スタートライン.mp3
+120:Music/Japan/7 !!/7!! - Anippusu [ALBUM]/08 ReReハロ~終われそうにない夏~.mp3
+121:Music/Japan/7 !!/7!! - Anippusu [ALBUM]/09 ノスタルジア~ReReハロ~.mp3
+122:Music/Japan/7 !!/7!! - Anippusu [ALBUM]/10 オレンジ(オーケストラver.).mp3
+123:Music/Japan/7 !!/7!! - Bye Bye/01. Bye Bye.mp3
+124:Music/Japan/7 !!/7!! - Centimeter [SINGLE]/01 センチメートル.mp3
+125:Music/Japan/7 !!/7!! - Centimeter [SINGLE]/02 君だけのストーリー.mp3
+126:Music/Japan/7 !!/7!! - Centimeter [SINGLE]/03 オレンジfeat.NAOTO(Classic ver.).mp3
+127:Music/Japan/7 !!/7!! - Doki Doki [ALBUM]/01 Doki Doki.mp3
+128:Music/Japan/7 !!/7!! - Doki Doki [ALBUM]/02 Yowamushi-san.mp3
+129:Music/Japan/7 !!/7!! - Doki Doki [ALBUM]/03 Lovers.mp3
+130:Music/Japan/7 !!/7!! - Doki Doki [ALBUM]/04 Nemurenai Yoru ni.mp3
+131:Music/Japan/7 !!/7!! - Doki Doki [ALBUM]/05 Sayonara Memory.mp3
+132:Music/Japan/7 !!/7!! - Doki Doki [ALBUM]/06 Nijiiro.mp3
+133:Music/Japan/7 !!/7!! - Doki Doki [ALBUM]/07 Falling Love.mp3
+134:Music/Japan/7 !!/7!! - Doki Doki [ALBUM]/08 Ai no Kotoba.mp3
+135:Music/Japan/7 !!/7!! - Doki Doki [ALBUM]/09 Kimi to Watashi no Ballad.mp3
+136:Music/Japan/7 !!/7!! - Doki Doki [ALBUM]/10 Snow Man.mp3
+137:Music/Japan/7 !!/7!! - Doki Doki [ALBUM]/11 Sweet Drive.mp3
+138:Music/Japan/7 !!/7!! - Doki Doki [ALBUM]/12 Blanco.mp3
+139:Music/Japan/7 !!/7!! - Doki Doki [ALBUM]/13 Bye Bye.mp3
+140:Music/Japan/7 !!/7!! - Kono Hiroi Sora no Shita de [SINGLE]/01. この広い空の下で.mp3
+141:Music/Japan/7 !!/7!! - Kono Hiroi Sora no Shita de [SINGLE]/02. ノスタルジア~ReReハロ~.mp3
+142:Music/Japan/7 !!/7!! - Kono Hiroi Sora no Shita de [SINGLE]/03. この広い空の下で(Instrumental).mp3
+143:Music/Japan/7 !!/7!! - Melody Maker/メロディ・メーカー.mp3
+144:Music/Japan/7 !!/7!! - Melody Maker/My ダーリン.mp3
+145:Music/Japan/7 !!/7!! - Melody Maker/バイバイ(Spring Ver.).mp3
+146:Music/Japan/7 !!/7!! - Melody Maker/メロディ・メーカー(Instrumental).mp3
+147:Music/Japan/7 !!/7!! - Orange [Single]/01. オレンジ.mp3
+148:Music/Japan/7 !!/7!! - Orange [Single]/02. オレンジ (アニメVer.).mp3
+149:Music/Japan/7 !!/7!! - Orange [Single]/03. オレンジ (Acoustic Ver.).mp3
+150:Music/Japan/7 !!/7!! - Orange [Single]/04. スタートライン (Acoustic Ver.).mp3
+151:Music/Japan/7 !!/7!! - Sekai wo Mawase [SINGLE]/7!! - Sekai wo Mawase!!.mp3
+152:Music/Japan/7 !!/7!! - Start Line [ALBUM]/1 スタートライン.mp3
+153:Music/Japan/7 !!/7!! - Start Line [ALBUM]/2 メロディ・メーカー.mp3
+154:Music/Japan/7 !!/7!! - Start Line [ALBUM]/3 サンライト(Album Ver.).mp3
+155:Music/Japan/7 !!/7!! - Start Line [ALBUM]/4 My ダーリン.mp3
+156:Music/Japan/7 !!/7!! - Start Line [ALBUM]/5 この広い空の下で.mp3
+157:Music/Japan/7 !!/7!! - Start Line [ALBUM]/6 太陽にKiss.mp3
+158:Music/Japan/7 !!/7!! - Start Line [ALBUM]/7 ReReハロ~終われそうにない夏~.mp3
+159:Music/Japan/7 !!/7!! - Start Line [ALBUM]/8 Please Please.mp3
+160:Music/Japan/7 !!/7!! - Start Line [ALBUM]/9 I Stay.mp3
+161:Music/Japan/7 !!/7!! - Start Line [ALBUM]/10 ノスタルジア~ReReハロ~.mp3
+162:Music/Japan/7 !!/7!! - Start Line [ALBUM]/11 この雨が降る前に.mp3
+163:Music/Japan/7 !!/7!! - Start Line [ALBUM]/12 スノーマン(Acoustic Ver.).mp3
+164:Music/Japan/7 !!/7!! - Start Line [ALBUM]/13 弱虫さん(うちなーVer.)feat.宜保和也.mp3
+165:Music/Japan/7 !!/7!! - Sweet Drive/Sweet Drive.mp3
+166:Music/Japan/7 !!/7!! - Sweet Drive/Nijiiro.mp3
+167:Music/Japan/7 !!/7!! - Sweet Drive/Sweet Drive (Inst.).mp3
+168:Music/Japan/7 !!/7!! 6th shinguru `ReRe haro ~ oware-sō ninai natsu ~/ReRe haro ~ oware-sō ninai natsu ~.mp3
+169:Music/Japan/7 !!/7!! 6th shinguru `ReRe haro ~ oware-sō ninai natsu ~/Mr. Harō.mp3
+170:Music/Japan/7 !!/7!! 6th shinguru `ReRe haro ~ oware-sō ninai natsu ~/Ainoshirushi.mp3
+171:Music/Japan/7 !!/7!! 6th shinguru `ReRe haro ~ oware-sō ninai natsu ~/ReRe haro ~ oware-sō ninai natsu ~ (Inst.).mp3
+172:Music/Japan/Kanojo wa Uso wo Aishisugiteru Music Box/01 INSECTICIDE (INSECTICIDE - CRUDE PLAY).mp3
+173:Music/Japan/Kanojo wa Uso wo Aishisugiteru Music Box/02 明日も (Ashita Mo - MUSH&Co.).mp3
+174:Music/Japan/Kanojo wa Uso wo Aishisugiteru Music Box/03 サヨナラの準備は、もうできていた (Sayonara no Junbi wa, Mou Dekiteita - CRUDE PLAY).mp3
+175:Music/Japan/Kanojo wa Uso wo Aishisugiteru Music Box/04 卒業 (SOTSUGYOU (Graduation) - CRUDE PLAY).mp3
+176:Music/Japan/Kanojo wa Uso wo Aishisugiteru Music Box/05 うたうたいのうた (Uta Utai No Uta - Ha~tsu po ☆ suchirōruzu).mp3
+177:Music/Japan/Kanojo wa Uso wo Aishisugiteru Music Box/06 明日も (アコースティック ver.) (Ashita Mo (Acoustic ver.) - Koeda Riko & Shinohara Shinya).mp3
+178:Music/Japan/Kanojo wa Uso wo Aishisugiteru Music Box/07 祈り (Inori (Prayer) - Mari).mp3
+179:Music/Japan/Kanojo wa Uso wo Aishisugiteru Music Box/08 卒業 (アコースティック ver.) (SOTSUGYOU (Acoustic ver.) - Koeda Riko & Ogasawara Aki).mp3
+180:Music/Japan/Kanojo wa Uso wo Aishisugiteru Music Box/09 ちっぽけな愛のうた (Chippoke Na Ai No Uta - Koeda Riko & Ogasawara Aki).mp3
+181:Music/Japan/Kanojo wa Uso wo Aishisugiteru Music Box/10 春姉ちゃんを幸せにしなかったらぶっ飛ばすの歌 (Bonus Track) (Haru Neichan wo Shiawase ni Shinakattara Buttobasu no Uta (Piano Solo) - Ogasawara Aki).mp3
+182:Music/Japan/YUI/yui - fight [music japan).mp3
+183:Music/Japan/YUI/YUI - Good-bye Days.mp3
+184:Music/Japan/YUI/Yui - Merry Go Round.mp3
+185:Music/Japan/YUI/Yui - LOVE&TRUTH~YUI Acoustic Version~.mp3
+186:Music/Japan/YUI/Yui - Namidairo~Instrumental~.mp3
+187:Music/Japan/YUI/YUI - Again.mp3
+188:Music/Japan/YUI/YUI - Umbrella.mp3
+189:Music/Japan/YUI/YUI - Winding Road.mp3
+190:Music/Japan/YUI/Yui - Happy Birthday to you you.mp3
+191:Music/Japan/YUI/Yui - feel my soul.mp3
+192:Music/Japan/YUI/Yui - feel my soul -Instrumental-.mp3
+193:Music/Japan/YUI/YUI - YOU.mp3
+194:Music/Japan/YUI/YUI - Good-bye days ~YUI Acoustic Version~.mp3
+195:Music/Japan/YUI/Yui - My Generation ~YUI Acoustic Version~.mp3
+196:Music/Japan/YUI/Yui - LOVE & TRUTH (Instrumental).mp3
+197:Music/Japan/YUI/YUI - Understand.mp3
+198:Music/Japan/YUI/Yui - Rain.mp3
+199:Music/Japan/YUI/YUI - Che.R.Ry.mp3
+200:Music/Japan/YUI/YUI_-_Life_Acoustic.mp3
+201:Music/Japan/YUI/Yui - Life.mp3
+202:Music/Japan/YUI/[Yui-Karaoke] YUI - HOLIDAYS IN THE SUN/01 to Mother.mp3
+203:Music/Japan/YUI/[Yui-Karaoke] YUI - HOLIDAYS IN THE SUN/13 Kiss me.mp3
+204:Music/Japan/YUI/[Yui-Karaoke] YUI - HOLIDAYS IN THE SUN/02 again.mp3
+205:Music/Japan/YUI/[Yui-Karaoke] YUI - HOLIDAYS IN THE SUN/03 Parade.mp3
+206:Music/Japan/YUI/[Yui-Karaoke] YUI - HOLIDAYS IN THE SUN/04 es.car.mp3
+207:Music/Japan/YUI/[Yui-Karaoke] YUI - HOLIDAYS IN THE SUN/05 Shake My Heart.mp3
+208:Music/Japan/YUI/[Yui-Karaoke] YUI - HOLIDAYS IN THE SUN/06 GLORIA.mp3
+209:Music/Japan/YUI/[Yui-Karaoke] YUI - HOLIDAYS IN THE SUN/07 I do it.mp3
+210:Music/Japan/YUI/[Yui-Karaoke] YUI - HOLIDAYS IN THE SUN/08 Please Stay With Me.mp3
+211:Music/Japan/YUI/[Yui-Karaoke] YUI - HOLIDAYS IN THE SUN/10 Cinnamon.mp3
+212:Music/Japan/YUI/[Yui-Karaoke] YUI - HOLIDAYS IN THE SUN/11 Driving Happy Life.mp3
+213:Music/Japan/YUI/[Yui-Karaoke] YUI - HOLIDAYS IN THE SUN/12 It's all too much.mp3
+214:Music/Japan/YUI/[Yui-Karaoke] YUI - HOLIDAYS IN THE SUN/09 Summer Song.mp3
+215:Music/Japan/YUI/[Yui-Karaoke] YUI - How crazy Your Love [2-11-2011]/01 HELLO.mp3
+216:Music/Japan/YUI/[Yui-Karaoke] YUI - How crazy Your Love [2-11-2011]/02 Separation.mp3
+217:Music/Japan/YUI/[Yui-Karaoke] YUI - How crazy Your Love [2-11-2011]/03 GetBackHome.mp3
+218:Music/Japan/YUI/[Yui-Karaoke] YUI - How crazy Your Love [2-11-2011]/04 LockOn.mp3
+219:Music/Japan/YUI/[Yui-Karaoke] YUI - How crazy Your Love [2-11-2011]/05 U-niform.mp3
+220:Music/Japan/YUI/[Yui-Karaoke] YUI - How crazy Your Love [2-11-2011]/06 Cooking.mp3
+221:Music/Japan/YUI/[Yui-Karaoke] YUI - How crazy Your Love [2-11-2011]/07 Rain.mp3
+222:Music/Japan/YUI/[Yui-Karaoke] YUI - How crazy Your Love [2-11-2011]/08 Goodnight.mp3
+223:Music/Japan/YUI/[Yui-Karaoke] YUI - How crazy Your Love [2-11-2011]/09 YOU.mp3
+224:Music/Japan/YUI/[Yui-Karaoke] YUI - How crazy Your Love [2-11-2011]/10 It'sMyLife.mp3
+225:Music/Japan/YUI/[Yui-Karaoke] YUI - How crazy Your Love [2-11-2011]/11 noReason.mp3
+226:Music/Japan/YUI/[Yui-Karaoke] YUI - How crazy Your Love [2-11-2011]/12 NobodyKnows.mp3
+227:Music/Japan/YUI/[Yui-Karaoke] YUI - How crazy Your Love [2-11-2011]/13 Greena.live.mp3
+228:Music/Japan/YUI/[Yui-Karaoke] YUI- I LOVED YESTERDAY/01 Laugh away.mp3
+229:Music/Japan/YUI/[Yui-Karaoke] YUI- I LOVED YESTERDAY/02 My Generation.mp3
+230:Music/Japan/YUI/[Yui-Karaoke] YUI- I LOVED YESTERDAY/03 Find me.mp3
+231:Music/Japan/YUI/[Yui-Karaoke] YUI- I LOVED YESTERDAY/04 No way.mp3
+232:Music/Japan/YUI/[Yui-Karaoke] YUI- I LOVED YESTERDAY/05 Namidairo.mp3
+233:Music/Japan/YUI/[Yui-Karaoke] YUI- I LOVED YESTERDAY/06 Daydreamer.mp3
+234:Music/Japan/YUI/[Yui-Karaoke] YUI- I LOVED YESTERDAY/07 Love is all.mp3
+235:Music/Japan/YUI/[Yui-Karaoke] YUI- I LOVED YESTERDAY/08 I will love you.mp3
+236:Music/Japan/YUI/[Yui-Karaoke] YUI- I LOVED YESTERDAY/09 We will go.mp3
+237:Music/Japan/YUI/[Yui-Karaoke] YUI- I LOVED YESTERDAY/10 OH YEAH.mp3
+238:Music/Japan/YUI/[Yui-Karaoke] YUI- I LOVED YESTERDAY/11 My friend.mp3
+239:Music/Japan/YUI/[Yui-Karaoke] YUI- I LOVED YESTERDAY/12 LOVE & TRUTH.mp3
+240:Music/Japan/YUI/[Yui-Karaoke] YUI- MY SHORT STORIES/13 crossroad.mp3
+241:Music/Japan/YUI/[Yui-Karaoke] YUI- MY SHORT STORIES/14 It's happy line.mp3
+242:Music/Japan/YUI/[Yui-Karaoke] YUI- MY SHORT STORIES/15 Why me.mp3
+243:Music/Japan/YUI/[Yui-Karaoke] YUI- MY SHORT STORIES/01 I'll be.mp3
+244:Music/Japan/YUI/[Yui-Karaoke] YUI- MY SHORT STORIES/02 HELP.mp3
+245:Music/Japan/YUI/[Yui-Karaoke] YUI- MY SHORT STORIES/03 Last Train.mp3
+246:Music/Japan/YUI/[Yui-Karaoke] YUI- MY SHORT STORIES/04 Winter Hot Music.mp3
+247:Music/Japan/YUI/[Yui-Karaoke] YUI- MY SHORT STORIES/05 Jam.mp3
+248:Music/Japan/YUI/[Yui-Karaoke] YUI- MY SHORT STORIES/06 Skyline.mp3
+249:Music/Japan/YUI/[Yui-Karaoke] YUI- MY SHORT STORIES/07 Free Bird.mp3
+250:Music/Japan/YUI/[Yui-Karaoke] YUI- MY SHORT STORIES/08 I wanna be.mp3
+251:Music/Japan/YUI/[Yui-Karaoke] YUI- MY SHORT STORIES/09 Oh My God.mp3
+252:Music/Japan/YUI/[Yui-Karaoke] YUI- MY SHORT STORIES/10 Cloudy.mp3
+253:Music/Japan/YUI/[Yui-Karaoke] YUI- MY SHORT STORIES/11 Driving today.mp3
+254:Music/Japan/YUI/[Yui-Karaoke] YUI- MY SHORT STORIES/12 Understand.mp3
+255:Music/Japan/[Nobunaga the Fool OP]Minori Chihara - Fool the World.mp3
+256:Music/Mamamoo/MAMAMOO - BLUE;S/03. Wind flower.mp3
+257:Music/Moon Byul (MAMAMOO) - SELFISH [www.k2nblog.com]/02. SELFISH (Feat. 슬기 Of Red Velvet).mp3
+258:Music/Spot/Zephyr/NIKI - Newsflash.mp3
+259:Music/Spot/Zephyr/NIKI - Say My Name.mp3
+260:Music/Spot/Zephyr/NIKI - Friends.mp3
+261:Music/Spot/Zephyr/NIKI - Spell.mp3
+262:Music/Spot/Zephyr/NIKI - Vintage.mp3
+263:Music/Spot/Zephyr/NIKI - Dancing with the Devil.mp3
+264:Music/Spot/Zephyr/NIKI - Pools.mp3
+265:Music/Spot/Zephyr/NIKI - Around.mp3
+266:Music/Spot/88rising - History.mp3
+267:Music/01. Excuse Me.mp3
+268:Music/02. Fine.mp3
+269:Music/02. 빙빙 (Bing Bing).mp3
+270:Music/Merk & Kremont - Sad Story (Out Of Luck).mp3
+271:The Pretty Reckless - Going to Hell/01 - Follow Me Down.flac
+272:The Pretty Reckless - Going to Hell/02 - Going to Hell.flac
+273:The Pretty Reckless - Going to Hell/03 - Heaven Knows.flac
+274:The Pretty Reckless - Going to Hell/04 - House on a Hill.flac
+275:The Pretty Reckless - Going to Hell/05 - Sweet Things.flac
+276:The Pretty Reckless - Going to Hell/06 - Dear Sister.flac
+277:The Pretty Reckless - Going to Hell/07 - Absolution.flac
+278:The Pretty Reckless - Going to Hell/08 - Blame Me.flac
+279:The Pretty Reckless - Going to Hell/09 - Burn.flac
+280:The Pretty Reckless - Going to Hell/10 - Why'd You Bring a Shotgun to the Party.flac
+281:The Pretty Reckless - Going to Hell/11 - Fucked up World.flac
+282:The Pretty Reckless - Going to Hell/12 - Waiting for a Friend.flac
+283:The Pretty Reckless - Light Me Up/01 - My Medicine.flac
+284:The Pretty Reckless - Light Me Up/02 - Since You're Gone.flac
+285:The Pretty Reckless - Light Me Up/03 - Make Me Wanna Die.flac
+286:The Pretty Reckless - Light Me Up/04 - Light Me Up.flac
+287:The Pretty Reckless - Light Me Up/05 - Just Tonight.flac
+288:The Pretty Reckless - Light Me Up/06 - Miss Nothing.flac
+289:The Pretty Reckless - Light Me Up/07 - Goin' Down.flac
+290:The Pretty Reckless - Light Me Up/08 - Nothing Left To Lose.flac
+291:The Pretty Reckless - Light Me Up/09 - Factory Girl.flac
+292:The Pretty Reckless - Light Me Up/10 - You.flac
+293:The Pretty Reckless - Who You Selling For/01 - The Walls Are Closing In _ Hangman.flac
+294:The Pretty Reckless - Who You Selling For/02 - Oh My God.flac
+295:The Pretty Reckless - Who You Selling For/03 - Take Me Down.flac
+296:The Pretty Reckless - Who You Selling For/04 - Prisoner.flac
+297:The Pretty Reckless - Who You Selling For/05 - Wild City.flac
+298:The Pretty Reckless - Who You Selling For/06 - Back To The River.flac
+299:The Pretty Reckless - Who You Selling For/07 - Who You Selling For.flac
+300:The Pretty Reckless - Who You Selling For/08 - Bedroom Window.flac
+301:The Pretty Reckless - Who You Selling For/09 - Living In The Storm.flac
+302:The Pretty Reckless - Who You Selling For/10 - Already Dead.flac
+303:The Pretty Reckless - Who You Selling For/11 - The Devil's Back.flac
+304:The Pretty Reckless - Who You Selling For/12 - Mad Love.flac
+305:Music/Breaking Benjamin/Breaking Benjamin - Angels Fall.mp3
+306:Music/Breaking Benjamin/Breaking Benjamin - Ashes of Eden.mp3
+307:Music/Breaking Benjamin/Breaking Benjamin - Blow Me Away.mp3
+308:Music/Breaking Benjamin/Breaking Benjamin - Breaking the Silence.mp3
+309:Music/Breaking Benjamin/Breaking Benjamin - Breath.mp3
+310:Music/Breaking Benjamin/Breaking Benjamin - Dancing with the devil.mp3
+311:Music/Breaking Benjamin/Breaking Benjamin - Dear Agony.mp3
+312:Music/Breaking Benjamin/Breaking Benjamin - Diary Of Jane.mp3
+313:Music/Breaking Benjamin/Breaking Benjamin - Failure.mp3
+314:Music/Breaking Benjamin/Breaking Benjamin - Give Me A Sign.mp3
+315:Music/Breaking Benjamin/Breaking Benjamin - Had Enough.mp3
+316:Music/Breaking Benjamin/Breaking Benjamin - Hollow.mp3
+317:Music/Breaking Benjamin/Breaking Benjamin - I Will Not Bow.mp3
+318:Music/Breaking Benjamin/Breaking Benjamin - So Cold.mp3
+319:Music/Breaking Benjamin/Breaking Benjamin - Until the End.mp3
+320:Music/Three Days Grace/Three Days Grace - Animal I Have Become.mp3
+321:Music/Three Days Grace/Three Days Grace - Gone Forever.mp3
+322:Music/Three Days Grace/Three Days Grace - Home.mp3
+323:Music/Three Days Grace/Three Days Grace - I Hate Everything About You.mp3
+324:Music/Three Days Grace/Three Days Grace - Just Like You.mp3
+325:Music/Three Days Grace/Three Days Grace - Last to Know.mp3
+326:Music/Three Days Grace/Three Days Grace - Lost in you.mp3
+327:Music/Three Days Grace/Three Days Grace - Never Too Late.mp3
+328:Music/Three Days Grace/Three Days Grace - Over and Over.mp3
+329:Music/Three Days Grace/Three Days Grace - Pain.mp3
+330:Music/Three Days Grace/Three Days Grace - The Good Life.mp3
+331:Music/Three Days Grace/Three Days Grace- Let You Down.mp3
+playlist_end
